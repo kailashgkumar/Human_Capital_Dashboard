@@ -1,12 +1,12 @@
 # Human Capital Dashboard
 
-An interactive HR analytics dashboard built in **Microsoft Excel** to analyze employee data across departments, gender, salary, age groups, and city locations. This dashboard helps HR teams and management monitor workforce insights and make data-driven decisions.
+An interactive HR analytics dashboard built in **Microsoft Excel** to analyze employee data across departments, gender, salary, age groups, and city locations.
 
 ---
 
 ## Dashboard Preview
 
-![Human Capital Dashboard](images/dashboard.png)
+![Dashboard Preview](./images/dashboard.png)
 
 ---
 
@@ -31,7 +31,6 @@ An interactive HR analytics dashboard built in **Microsoft Excel** to analyze em
 - Pivot Charts
 - Slicers
 - Conditional Formatting
-- Dashboard Design Techniques
 
 ---
 
@@ -54,30 +53,10 @@ An interactive HR analytics dashboard built in **Microsoft Excel** to analyze em
 
 ## Key Insights
 
-- Sales department has the highest employee count.
-- Male employees dominate across most departments.
-- Kolkata has the highest employee distribution.
-- IT and Sales departments contribute the highest salary expenses.
-- Majority employees belong to the 48–62 age group.
-
----
-
-## Use Cases
-
-- HR Reporting
-- Workforce Analysis
-- Employee Performance Monitoring
-- Salary Insights
-- Management Decision Support
-
----
-
-## How to Use
-
-1. Download the repository
-2. Open the Excel dashboard file
-3. Enable editing if prompted
-4. Use slicers to interact with the dashboard
+- Sales department has the highest employee count
+- Kolkata has the highest employee distribution
+- IT and Sales departments contribute the highest salary expenses
+- Majority employees belong to the 48–62 age group
 
 ---
 
@@ -85,12 +64,4 @@ An interactive HR analytics dashboard built in **Microsoft Excel** to analyze em
 
 **Kailash Kumar**
 
-- Aspiring Data Analyst
-- Skilled in Excel, Power BI, SQL, Python and Dashboarding
-
----
-
-## Connect With Me
-
-- LinkedIn: linkedin.com/in/kailash-kumar-7010a052
-- GitHub: github.com/kailashgkumar
+Aspiring Data Analyst skilled in Excel, Power BI, SQL, and Dashboarding.
